@@ -1,0 +1,11 @@
+body {
+    background-color: aquamarine;
+}
+
+nav {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
